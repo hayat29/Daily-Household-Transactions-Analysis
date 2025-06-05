@@ -1,0 +1,13 @@
+============================================================
+                 FINANCIAL ANALYSIS SUMMARY                 
+============================================================
+
+• Total Income: $2,074,685.35
+• Total Expenses: $3,662,078.43
+• Net Savings: $-1,587,393.08
+• Savings Rate: -76.5%
+• Most Spent Category: Salary
+• Average Daily Spending: $2441.19
+• Analysis Period: 2015-01-01 to 2018-09-19
+• Transactions Analyzed: 2,215
+============================================================
